@@ -1,6 +1,6 @@
 # ══════════════════════════════════════════════════════
 #  VOID-NUKE  v1.0.0  --  by void
-#  t.me/v0idtool · discord.gg/voidv2  |  github.com/v0id4real
+#  t.me/v0idtool · discord.gg/kaostools  |  github.com/v0id4real
 # ══════════════════════════════════════════════════════
 
 import os, sys, time, random, asyncio, json, re, webbrowser
@@ -20,8 +20,8 @@ NO_BAN_KICK_ID = []
 
 TELEGRAM_URL = "https://t.me/v0idtool"
 TELEGRAM_TAG = "t.me/v0idtool"
-DISCORD_URL  = "https://discord.gg/voidv2"
-DISCORD_TAG  = "discord.gg/voidv2"
+DISCORD_URL  = "https://discord.gg/kaostools"
+DISCORD_TAG  = "discord.gg/kaostools"
 GITHUB_URL   = "https://github.com/v0id4real/Void-Nuke"
 PUB          = f"||@everyone||  **# RAID BY VOID-NUKE**  :  {TELEGRAM_TAG} · {DISCORD_TAG}  <{GITHUB_URL}>"
 PUB_SHORT    = f"{TELEGRAM_TAG} · {DISCORD_TAG} | github.com/v0id4real"
