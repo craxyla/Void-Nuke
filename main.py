@@ -30,10 +30,10 @@ TOOL_NAME   = "VOID-NUKE"
 
 AUTO_RAID_CONFIG = {
     "channel_type"   : "text",
-    "channel_name"   : TEST,
-    "num_channels"   : 1000,
-    "num_messages"   : 100,
-    "message_content": @everyone testing,
+    "channel_name"   : RAID_NAME,
+    "num_channels"   : 50,
+    "num_messages"   : 10,
+    "message_content": PUB,
 }
 
 EMBED_CONFIG = {
